@@ -1,3 +1,0 @@
-##Forest Loss and Mining in DRC
-######Project Description
-In the world we live in today, climate change is a finally rising topic. In terms of loss in biodiversity in our planet's forests, studies have shown the direct, anthropogenic impact that human activies have on this part of our ecosystem. Working with Global Forest Watch (GFW) and The International Peace Information Service (IPIS), we sought to spatially observe to occurance of forest loss in conjuction with mining site locations. This collaboration now offers a platfrom for spatial analysis to be conducted and actions to be taken by all parties involved in preservation of biodiversity efforts.
